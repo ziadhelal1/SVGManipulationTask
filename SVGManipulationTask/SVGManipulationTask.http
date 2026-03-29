@@ -1,0 +1,6 @@
+@SVGManipulationTask_HostAddress = http://localhost:5034
+
+GET {{SVGManipulationTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
